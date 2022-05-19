@@ -1,1 +1,2 @@
-# buy-np.github.io
+# Buy NP
+Home page for purchasing NP devices.
